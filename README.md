@@ -3,3 +3,5 @@ In this repository are contained Go code that exemplify concepts of Object Orien
 
 # References
 
+Hands-On Go Programming
+https://subscription.packtpub.com/book/application_development/9781789531756
